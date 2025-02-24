@@ -1,6 +1,20 @@
-<<<<<<< HEAD
-This is our next plan in life. 
- nothing to say. 
-=======
-Himel Atik Is a very innovative abour the time and work.
->>>>>>> feature1
+Who is Himel Atik?
+Himel Atik is a cybersecurity expert, ethical hacker, Red Team Operator and content creator known for his contributions to penetration testing, Red Teaming, and ethical hacking education. He is the founder of Red Cyber Company and Hacked by Himel, two platforms dedicated to cybersecurity training, penetration testing, and digital security solutions.
+
+🔹 Founder of Red Cyber Company & Hacked by Himel
+Himel Atik is the CEO and Founder of Red Cyber Company, a cybersecurity agency specializing in penetration testing, ethical hacking training, malware analysis, and web security services. His company helps businesses and individuals protect their digital assets from cyber threats.
+
+🔹 Cybersecurity Expertise:
+Himel specializes in penetration testing, Red Teaming, and malware research. His expertise covers web application security, vulnerability assessment, exploit development, and advanced Facebook account recovery techniques.
+
+🔹 Cybersecurity Educator & Content Creator:
+As an educator, Himel teaches CompTIA A+, Network+, Security+, CEH, and professional bug bounty hunting through online courses and YouTube content. His detailed training programs help students master cybersecurity skills from beginner to advanced levels.
+
+🔹 Digital Security & Web Protection:
+As a WordPress security specialist, Himel Atik assists businesses in protecting their websites from cyber threats, removing malware, and securing online platforms.
+
+🔹 Social Media & Community Impact:
+Through Hacked by Himel and Red Cyber Company, Himel Atik engages with a global audience of aspiring hackers, cybersecurity professionals, and ethical hacking enthusiasts.
+
+
+
