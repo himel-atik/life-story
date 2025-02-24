@@ -10,9 +10,6 @@ Himel specializes in penetration testing, Red Teaming, and malware research. His
 🔹 Cybersecurity Educator & Content Creator:
 As an pationate mentor, Himel teaches CEH practical preparation, Pentesting For Professionals, SOC for Red Team, Mobile App Pentesting, and professional bug bounty hunting through online courses and YouTube content. His detailed training programs help students master cybersecurity skills from beginner to advanced levels.
 
-🔹 Digital Security & Web Protection:
-As a WordPress security specialist, Himel Atik assists businesses in protecting their websites from cyber threats, removing malware, and securing online platforms.
-
 🔹 Social Media & Community Impact:
 Through Hacked by Himel and Red Cyber Company, Himel Atik engages with a global audience of aspiring hackers, cybersecurity professionals, and ethical hacking enthusiasts.
 
