@@ -5,7 +5,7 @@ Himel Atik is a cybersecurity expert, ethical hacker, Red Team Operator and cont
 Himel Atik is the CEO and Founder of Red Cyber Company, a cybersecurity agency specializing in penetration testing, ethical hacking training, malware analysis, and web security services. His company helps businesses and individuals protect their digital assets from cyber threats.
 
 🔹 Cybersecurity Expertise:
-Himel specializes in penetration testing, Red Teaming, and malware research. His expertise covers web application security, vulnerability assessment, exploit development, and advanced Facebook account recovery techniques.
+Himel specializes in penetration testing, Red Teaming, and malware research. His expertise covers web application security, vulnerability assessment, exploit development, and so on...
 
 🔹 Cybersecurity Educator & Content Creator:
 As an pationate mentor, Himel teaches CEH practical preparation, Pentesting For Professionals, SOC for Red Team, Mobile App Pentesting, and professional bug bounty hunting through online courses and YouTube content. His detailed training programs help students master cybersecurity skills from beginner to advanced levels.
